@@ -1,0 +1,2 @@
+# QRGenerator
+A simple QRGenerator
